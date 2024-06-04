@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 81c87ee157c406a4b96d96df1f6a5589
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - woodText: {fileID: 9003148291945182145, guid: bbba70416853cbc49b33038e854c09a8,
+      type: 3}
+  - stoneText: {fileID: 2471625709229502914, guid: 503ace626f3c607499b67717ec4feb43,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

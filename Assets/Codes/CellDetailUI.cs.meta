@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 58e278fe14f519e44b4c9c3f63414094
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cellTypeText: {fileID: 6479927396910505716, guid: 141a1d3304ce8044b8221f91c4cb207b,
+      type: 3}
+  - cellNumberText: {fileID: 210438045964948920, guid: e2b161b5c40fe3f4dae5c61c42662311,
+      type: 3}
+  - woodText: {fileID: 8025444405730133421, guid: dfd6c9691091ddc41b7bb262d704f4c6,
+      type: 3}
+  - stoneText: {fileID: 1319261277609139825, guid: e6e35ab456c2ad44da4c5b5d2e74c398,
+      type: 3}
+  - cellIcon: {fileID: 5518396296267411782, guid: 22a0c880d061ada4b98263332462013a,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
